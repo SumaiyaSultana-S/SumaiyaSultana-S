@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SumaiyaSultana-S
 - 🔭 I’m currently working on My Portfolio
-- 👀 I’m interested in wen development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning Node JS
-- 📫 How to reach me sumaiyatajrin1@gmail.com
+- 📫 How to reach me sumaiyasumu9617@gmail.com
 - 💬 Ask me about react
 
 <!---
